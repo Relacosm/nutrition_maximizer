@@ -1,4 +1,4 @@
-# 🍽️ Smart Nutritional Recipe Generator v2.0
+# 🍽️ Smart Nutritional Recipe Generator
 
 An intelligent recipe generator that combines nutritional analysis, optimization, and user-friendly recipe creation.  
 Built with **Python**, **Tkinter**, and the **API Ninjas Nutrition API**, it helps users create personalized recipes based on their chosen ingredients.
